@@ -1,0 +1,396 @@
+CoC Number,CoC Name,City,CocState
+AK-500,Anchorage CoC,Anchorage,AK
+AK-501,Alaska Balance of State CoC,Anchorage,AK
+AL-500,"Birmingham/Jefferson, St. Clair, Shelby Counties CoC",Birmingham,AL
+AL-501,Mobile City & County/Baldwin County CoC,Mobile,AL
+AL-502,Florence/Northwest Alabama CoC,FLORENCE,AL
+AL-503,Huntsville/North Alabama CoC,HUNTSVILLE,AL
+AL-504,Montgomery City & County CoC,Montogomery,AL
+AL-505,Gadsden/Northeast Alabama CoC,Gadsden,AL
+AL-506,Tuscaloosa City & County CoC,Tuscaloosa,AL
+AL-507,Alabama Balance of State CoC,Montogomery,AL
+AR-500,Little Rock/Central Arkansas CoC,LITTLE ROCK,AR
+AR-501,Fayetteville/Northwest Arkansas CoC,ROGERS,AR
+AR-503,Arkansas  Balance of State  CoC,PARAGOULD,AR
+AR-505,Southeast Arkansas CoC,Pine Bluff,AR
+AZ-500,Arizona Balance of State CoC,SAFFORD,AZ
+AZ-501,Tucson/Pima County CoC,Tucson,AZ
+AZ-502,"Phoenix, Mesa/Maricopa County CoC",MESA,AZ
+CA-500,San Jose/Santa Clara City & County CoC,San Jose,CA
+CA-501,San Francisco CoC,San Francisco,CA
+CA-502,"Oakland, Berkeley/Alameda County CoC",OAKLAND,CA
+CA-503,Sacramento City & County CoC,Sacramento,CA
+CA-504,"Santa Rosa, Petaluma/Sonoma County CoC",SANTA ROSA,CA
+CA-505,Richmond/Contra Costa County CoC,Richmond,CA
+CA-506,"Salinas/Monterey, San Benito Counties CoC",Marina,CA
+CA-507,Marin County CoC,Marin,CA
+CA-508,Watsonville/Santa Cruz City & County CoC,Santa Cruz,CA
+CA-509,Mendocino County CoC,Ukiah,CA
+CA-510,"Turlock, Modesto/Stanislaus County CoC",EMPIRE,CA
+CA-511,Stockton/San Joaquin County CoC,Stockton,CA
+CA-512,Daly/San Mateo County CoC,Redwood City,CA
+CA-513,"Visalia/Kings, Tulare Counties CoC",Hanford,CA
+CA-514,Fresno City & County/Madera County CoC,FRESNO,CA
+CA-515,"Roseville, Rocklin/Placer County CoC",Roseville,CA
+CA-516,"Redding/Shasta, Siskiyou, Lassen, Plumas, Del Norte, Modoc, Sierra Counties CoC",Redding,CA
+CA-517,Napa City & County CoC,Napa,CA
+CA-518,Vallejo/Solano County CoC,Fairfield,CA
+CA-519,"Chico, Paradise/Butte County CoC",Chico,CA
+CA-520,Merced City & County CoC,Los Banos,CA
+CA-521,"Davis, Woodland/Yolo County CoC",Davis,CA
+CA-522,Humboldt County CoC,EUREKA,CA
+CA-523,"Colusa, Glenn, Trinity Counties CoC",Willows,CA
+CA-524,Yuba City & County/Sutter County CoC,Marysville,CA
+CA-525,El Dorado County CoC,S LAKE TAHOE,CA
+CA-526,"Amador, Calaveras, Mariposa, Tuolumne Counties CoC",Jackson,CA
+CA-527,Tehama County CoC,RED BLUFF,CA
+CA-529,Lake County CoC,LAKEPORT,CA
+CA-530,"Alpine, Inyo, Mono Counties CoC",Bishop,CA
+CA-531,Nevada County CoC,Grass Valley,CA
+CA-600,Los Angeles City & County CoC,Los Angeles,CA
+CA-601,San Diego City and County CoC,San Diego,CA
+CA-602,"Santa Ana, Anaheim/Orange County CoC",Santa Ana,CA
+CA-603,Santa Maria/Santa Barbara County CoC,SANTA MARIA,CA
+CA-604,Bakersfield/Kern County CoC,Bakersfield,CA
+CA-606,Long Beach CoC,Long Beach,CA
+CA-607,Pasadena CoC,Pasadena,CA
+CA-608,Riverside City & County CoC,Riverside,CA
+CA-609,San Bernardino City & County CoC,san bernardino,CA
+CA-611,"Oxnard, San Buenaventura/Ventura County CoC",Ventura,CA
+CA-612,Glendale CoC,Pasadena,CA
+CA-613,Imperial County CoC,El Centro,CA
+CA-614,San Luis Obispo County CoC,San Luis Obispo,CA
+CO-500,Colorado Balance of State CoC,Cortez,CO
+CO-503,Metropolitan Denver CoC,Denver,CO
+CO-504,Colorado Springs/El Paso County CoC,Colarado Springs,CO
+CO-505,"Fort Collins, Greeley, Loveland/Larimer, Weld Counties CoC",Fort Collins,CO
+CT-503,"Bridgeport, Stamford, Norwalk, Danbury/Fairfield County CoC",BRIDGEPORT,CT
+CT-505,Connecticut Balance of State CoC,XXX,CT
+DC-500,District of Columbia CoC,WASHINGTON,DC
+DE-500,Delaware Statewide CoC,Milford,DE
+FL-500,"Sarasota, Bradenton/Manatee, Sarasota Counties CoC",Sarasota,FL
+FL-501,Tampa/Hillsborough County CoC,Tampa,FL
+FL-502,"St. Petersburg, Clearwater, Largo/Pinellas County CoC",CLEARWATER,FL
+FL-503,"Lakeland, Winterhaven/Polk County CoC",Lakeland,FL
+FL-504,"Deltona, Daytona Beach/Volusia, Flagler Counties CoC",Daytona Beach,FL
+FL-505,"Fort Walton Beach/Okaloosa, Walton Counties CoC",Fort Walton Beach,FL
+FL-506,Tallahassee/Leon County CoC,TALLAHASSEE,FL
+FL-507,"Orlando/Orange, Osceola, Seminole Counties CoC",ORLANDO,FL
+FL-508,"Gainesville/Alachua, Putnam Counties CoC",GAINESVILLE,FL
+FL-509,"Fort Pierce/St. Lucie, Indian River, Martin Counties CoC",VERO BEACH,FL
+FL-510,"Jacksonville-Duval, Clay Counties CoC",Jacksonville,FL
+FL-511,"Pensacola/Escambia, Santa Rosa Counties CoC",Pensacola,FL
+FL-512,St. Johns County CoC,St. Augustine,FL
+FL-513,"Palm Bay, Melbourne/Brevard County CoC",Titusville,FL
+FL-514,Ocala/Marion County CoC,OCALA,FL
+FL-515,"Panama City/Bay, Jackson Counties CoC",Marianna,FL
+FL-517,"Hendry, Hardee, Highlands Counties CoC",AVON PARK,FL
+FL-518,"Columbia, Hamilton, Lafayette, Suwannee Counties CoC",Lake City,FL
+FL-519,Pasco County CoC,New Port Richey,FL
+FL-520,"Citrus, Hernando, Lake, Sumter Counties CoC",HOMOSASSA,FL
+FL-600,Miami-Dade County CoC,MIAMI,FL
+FL-601,Ft Lauderdale/Broward County CoC,Fort Lauderdale,FL
+FL-602,Punta Gorda/Charlotte County CoC,PORT CHARLOTTE,FL
+FL-603,"Ft Myers, Cape Coral/Lee County CoC",Fort Myers,FL
+FL-604,Monroe County CoC,KEY WEST,FL
+FL-605,West Palm Beach/Palm Beach County CoC,,FL
+FL-606,Naples/Collier County CoC,Naples,FL
+GA-500,Atlanta CoC,Atlanta,GA
+GA-501,Georgia Balance of State CoC,Cartersville,GA
+GA-502,Fulton County CoC,Atlanta,GA
+GA-503,Athens-Clarke County CoC,Athens,GA
+GA-504,Augusta-Richmond County CoC,AUGUSTA,GA
+GA-505,Columbus-Muscogee CoC,Columbus,GA
+GA-506,Marietta/Cobb County CoC,MARIETTA,GA
+GA-507,Savannah/Chatham County CoC,SAVANNAH,GA
+GA-508,DeKalb County CoC,Decatur,GA
+GU-500,Guam CoC,,GU
+HI-500,Hawaii Balance of State CoC,Hilo,HI
+HI-501,Honolulu City and County CoC,Honolulu,HI
+IA-500,"Sioux City/Dakota, Woodbury Counties CoC",South Sioux City,IA
+IA-501,Iowa Balance of State CoC,Des Moines,IA
+IA-502,Des Moines/Polk County CoC,Des Moines,IA
+ID-500,Boise/Ada County CoC,Boise,ID
+ID-501,Idaho Balance of State CoC,CLARKSTON,ID
+IL-500,McHenry County CoC,MCHENRY,IL
+IL-501,"Rockford/DeKalb, Winnebago, Boone Counties CoC",Rockford,IL
+IL-502,"Waukegan, North Chicago/Lake County CoC",Waukegan,IL
+IL-503,"Champaign, Urbana, Rantoul/Champaign County CoC",CHAMPAIGN,IL
+IL-504,Madison County CoC,GRANITE CITY,IL
+IL-506,"Joliet, Bolingbrook/Will County CoC",JOLIET,IL
+IL-507,"Peoria, Pekin/Fulton, Tazewell, Peoria, Woodford Counties CoC",PEORIA,IL
+IL-508,"East St. Louis, Belleville/St. Clair County CoC",East St. Louis,IL
+IL-510,Chicago CoC,Chicago,IL
+IL-511,Cook County CoC,HINES,IL
+IL-512,Bloomington/Central Illinois CoC,Bloomington,IL
+IL-513,Springfield/Sangamon County CoC,Springfield,IL
+IL-514,DuPage County CoC,Glen Ellyn,IL
+IL-515,South Central Illinois CoC,NEWTON,IL
+IL-516,Decatur/Macon County CoC,DECATUR,IL
+IL-517,"Aurora, Elgin/Kane County CoC",Geneva,IL
+IL-518,"Rock Island, Moline/Northwestern Illinois CoC",FREEPORT,IL
+IL-519,West Central Illinois CoC,JACKSONVILLE,IL
+IL-520,Southern Illinois CoC,METROPOLIS,IL
+IN-502,Indiana Balance of State CoC,MUNCIE,IN
+IN-503,Indianapolis CoC,Indianapolis,IN
+KS-502,Wichita/Sedgwick County CoC,Wichita,KS
+KS-503,Topeka/Shawnee County CoC,Topeka,KS
+KS-505,"Overland Park, Shawnee/Johnson County CoC",Olathe,KS
+KS-507,Kansas Balance of State CoC,LEAVENWORTH,KS
+KY-500,Kentucky Balance of State CoC,Frankfort,KY
+KY-501,Louisville-Jefferson County CoC,LOUISVILLE,KY
+KY-502,Lexington-Fayette County CoC,LEXINGTON,KY
+LA-500,Lafayette/Acadiana CoC,Lafayette,LA
+LA-502,"Shreveport, Bossier/Northwest Louisiana CoC",SHREVEPORT,LA
+LA-503,New Orleans/Jefferson Parish CoC,New Orleans,LA
+LA-505,Monroe/Northeast Louisiana CoC,MONROE,LA
+LA-506,Slidell/Southeast Louisiana CoC,PONCHATOULA,LA
+LA-507,Alexandria/Central Louisiana CoC,Alexandria,LA
+LA-509,Louisiana Balance of State CoC,BATON ROUGE,LA
+MA-500,Boston CoC,Boston,MA
+MA-502,Lynn CoC,LYNN,MA
+MA-503,Cape Cod Islands CoC,Hyannis,MA
+MA-504,Springfield/Hampden County CoC,SPRINGFIELD,MA
+MA-505,New Bedford CoC,New Bedford,MA
+MA-506,Worcester City & County CoC,SOUTHBRIDGE,MA
+MA-507,"Pittsfield/Berkshire, Franklin, Hampshire Counties CoC",PITTSFIELD,MA
+MA-509,Cambridge CoC,CAMBRIDGE,MA
+MA-510,"Gloucester, Haverhill, Salem/Essex County CoC",Peabody,MA
+MA-511,"Quincy, Brockton, Weymouth, Plymouth City and County CoC",Quincy,MA
+MA-515,Fall River CoC,Fall River,MA
+MA-516,Massachusetts Balance of State CoC,LOWELL,MA
+MA-519,"Attleboro, Taunton/Bristol County CoC",Taunton,MA
+MD-500,Cumberland/Allegany County CoC,CUMBERLAND,MD
+MD-501,Baltimore CoC,BALTIMORE,MD
+MD-502,Harford County CoC,ABERDEEN,MD
+MD-503,Annapolis/Anne Arundel County CoC,Glen Burnie,MD
+MD-504,Howard County CoC,Columbia,MD
+MD-505,Baltimore County CoC,PIKESVILLE,MD
+MD-506,Carroll County CoC,Westminster,MD
+MD-507,Cecil County CoC,Elkton,MD
+MD-508,"Charles, Calvert, St.Mary's Counties CoC",HUGHESVILLE,MD
+MD-509,Frederick City & County CoC,FREDERICK,MD
+MD-510,Garrett County CoC,OAKLAND,MD
+MD-511,Mid-Shore Regional CoC,DENTON,MD
+MD-512,Hagerstown/Washington County CoC,HAGERSTOWN,MD
+MD-513,"Wicomico, Somerset, Worcester Counties CoC",Westover,MD
+MD-600,Prince George's County CoC,Greenbelt,MD
+MD-601,Montgomery County CoC,Silver Spring,MD
+ME-500,Maine Statewide CoC,Bangor,ME
+MI-500,Michigan Balance of State CoC,Lansing,MI
+MI-501,Detroit CoC,DETROIT,MI
+MI-502,"Dearborn, Dearborn Heights, Westland/Wayne County CoC",Wyandotte,MI
+MI-503,"St. Clair Shores, Warren/Macomb County CoC",Roseville,MI
+MI-504,"Pontiac, Royal Oak/Oakland County CoC",Pontiac,MI
+MI-505,Flint/Genesee County CoC,FLINT,MI
+MI-506,"Grand Rapids, Wyoming/Kent County CoC",Grand Rapids,MI
+MI-507,"Portage, Kalamazoo City & County CoC",Kalamazoo,MI
+MI-508,"Lansing, East Lansing/Ingham County CoC",LANSING,MI
+MI-509,Washtenaw County CoC,Ypsilanti,MI
+MI-510,Saginaw City & County CoC,Saginaw,MI
+MI-511,Lenawee County CoC,Adrian,MI
+MI-512,"Grand Traverse, Antrim, Leelanau Counties CoC",TRAVERSE CITY,MI
+MI-514,Battle Creek/Calhoun County CoC,BATTLE CREEK,MI
+MI-515,Monroe City & County CoC,MONROE,MI
+MI-516,"Norton Shores, Muskegon City & County CoC",Muskegon,MI
+MI-517,Jackson City & County CoC,JACKSON,MI
+MI-518,Livingston County CoC,,MI
+MI-519,Holland/Ottawa County CoC,GRAND HAVEN,MI
+MI-523,Eaton County CoC,Charlotte,MI
+MN-500,Minneapolis/Hennepin County CoC,MINNETONKA,MN
+MN-501,Saint Paul/Ramsey County CoC,St. Paul,MN
+MN-502,Rochester/Southeast Minnesota CoC,MANKATO,MN
+MN-503,"Dakota, Anoka, Washington, Scott, Carver Counties",Anoka,MN
+MN-504,Northeast Minnesota CoC,Minneapolis,MN
+MN-505,St. Cloud/Central Minnesota CoC,Little Falls,MN
+MN-506,Northwest Minnesota CoC,Red Lake,MN
+MN-508,Moorhead/West Central Minnesota CoC,Moorhead,MN
+MN-509,Duluth/St.Louis County CoC,Virginia,MN
+MN-511,Southwest Minnesota CoC,willmar,MN
+MO-500,St. Louis County CoC,MARYLAND HTS,MO
+MO-501,St.Louis City CoC,St.Louis City,MO
+MO-503,"St. Charles City & County, Lincoln, Warren Counties CoC",SAINT CHARLES,MO
+MO-600,"Springfield/Greene, Christian, Webster Counties CoC",Springfield,MO
+MO-602,"Joplin/Jasper, Newton Counties CoC",WEBB CITY,MO
+MO-603,"St. Joseph/Andrew, Buchanan, DeKalb Counties CoC",St. Joseph,MO
+MO-604a,"Kansas City, Independence, Lee���s Summit/Jackson, Wyandotte Counties, MO & KS",Kansas City,
+MO-606,Missouri Balance of State CoC,,MO
+MP-500,Northern Mariana Islands CoC,Saipan,MP
+MS-500,"Jackson/Rankin, Madison Counties CoC",JACKSON,MS
+MS-501,Mississippi Balance of State CoC,Jackson,MS
+MS-503,Gulf Port/Gulf Coast Regional CoC,Ocean Springs,MS
+MT-500,Montana Statewide CoC,KALISPELL,MT
+NC-500,Winston-Salem/Forsyth County CoC,WINSTON SALEM,NC
+NC-501,Asheville/Buncombe County CoC,Asheville,NC
+NC-502,Durham City & County CoC,Durham,NC
+NC-503,North Carolina Balance of State CoC,LILLINGTON,NC
+NC-504,"Greensboro, High Point CoC",High Point,NC
+NC-505,Charlotte/Mecklenberg CoC,CHARLOTTE,NC
+NC-506,"Wilmington/Brunswick, New Hanover, Pender Counties CoC",Wilmington,NC
+NC-507,Raleigh/Wake County CoC,Raleigh,NC
+NC-509,"Gastonia/Cleveland, Gaston, Lincoln Counties CoC",BELMONT,NC
+NC-511,Fayetteville/Cumberland County CoC,Fayetteville,NC
+NC-513,Chapel Hill/Orange County CoC,Hillsborough,NC
+NC-516,Northwest North Carolina CoC,BOONE,NC
+ND-500,North Dakota Statewide CoC,Grand Forks,ND
+NE-500,Nebraska Balance of State CoC,Grand Island,NE
+NE-501,"Omaha, Council Bluffs CoC",OMAHA,NE
+NE-502,Lincoln CoC,Lincoln,NE
+NH-500,New Hampshire Balance of State CoC,CLAREMONT,NH
+NH-501,Manchester CoC,MANCHESTER,NH
+NH-502,Nashua/Hillsborough County CoC,Nashua,NH
+NJ-500,Atlantic City & County CoC,NORTHFIELD,NJ
+NJ-501,Bergen County CoC,Hackensack,NJ
+NJ-502,Burlington County CoC,Mount Holly,NJ
+NJ-503,"Camden City & County/Gloucester, Cape May, Cumberland Counties CoC",BRIDGETON,NJ
+NJ-504,Newark/Essex County CoC,NEWARK,NJ
+NJ-506,"Jersey City, Bayonne/Hudson County CoC",Jersey City,NJ
+NJ-507,New Brunswick/Middlesex County CoC,New Brunswick,NJ
+NJ-508,Monmouth County CoC,ASBURY PARK,NJ
+NJ-509,Morris County CoC,Perth Amboy,NJ
+NJ-510,Lakewood Township/Ocean County CoC,Bayville,NJ
+NJ-511,Paterson/Passaic County CoC,Paterson,NJ
+NJ-512,Salem County CoC,SALEM,NJ
+NJ-513,Somerset County CoC,Somerville,NJ
+NJ-514,Trenton/Mercer County CoC,Trenton,NJ
+NJ-515,Elizabeth/Union County CoC,Elizabeth,NJ
+NJ-516,"Warren, Sussex, Hunterdon Counties CoC",Newton,NJ
+NM-500,Albuquerque CoC,Albuquerque,NM
+NM-501,New Mexico Balance of State CoC,SANTA FE,NM
+NV-500,Las Vegas/Clark County CoC,Las Vegas,NV
+NV-501,"Reno, Sparks/Washoe County CoC",RENO,NV
+NV-502,Nevada Balance of State CoC,Carson City,NV
+NY-500,"Rochester, Irondequoit, Greece/Monroe County CoC",ROCHESTER,NY
+NY-501,"Elmira/Steuben, Allegany, Livingston, Chemung, Schuyler Counties CoC",PITTSFIELD,NY
+NY-503,Albany City & County CoC,ALBANY,NY
+NY-505,"Syracuse, Auburn/Onondaga, Oswego, Cayuga Counties CoC",SYRACUSE,NY
+NY-507,Schenectady City & County CoC,SCHENECTADY,NY
+NY-508,"Buffalo, Niagara Falls/Erie, Niagara, Orleans, Genesee, Wyoming Counties CoC",BUFFALO,NY
+NY-510,Ithaca/Tompkins County CoC,ITHACA,NY
+NY-511,"Binghamton, Union Town/Broome, Otsego, Chenango, Delaware, Cortland, Tioga Count",Norwich,NY
+NY-512,Troy/Rensselaer County CoC,PITTSFIELD,NY
+NY-513,"Wayne, Ontario, Seneca, Yates Counties CoC",Farmington,NY
+NY-514,"Jamestown, Dunkirk/Chautauqua County CoC",Gowanda,NY
+NY-518,"Utica, Rome/Oneida, Madison Counties CoC",Utica,NY
+NY-519,"Columbia, Greene Counties CoC",HUDSON,NY
+NY-520,"Franklin, Essex Counties CoC",Albany,NY
+NY-522,"Jefferson, Lewis, St. Lawrence Counties CoC",LOWVILLE,NY
+NY-523,"Glens Falls, Saratoga Springs/Saratoga, Washington, Warren, Hamilton Counties Co",Ballston Spa,NY
+NY-525,New York Balance of State Continuum of Care,Newburgh,NY
+NY-600,New York City CoC,Brooklyn,NY
+NY-601,Poughkeepsie/Dutchess County CoC,Poughkeepsie,NY
+NY-602,"Newburgh, Middletown/Orange County CoC",NEWBURGH,NY
+NY-603,"Nassau, Suffolk Counties CoC",New York,NY
+NY-604,"Yonkers, Mount Vernon/Westchester County CoC",White Plains,NY
+NY-606,Rockland County CoC,Haverstraw,NY
+NY-608,Kingston/Ulster County CoC,KINGSTON,NY
+OH-500,Cincinnati/Hamilton County CoC,CINCINNATI,OH
+OH-501,Toledo/Lucas County CoC,Toledo,OH
+OH-502,Cleveland/Cuyahoga County CoC,Cleveland,OH
+OH-503,Columbus/Franklin County CoC,Columbus,OH
+OH-504,Youngstown/Mahoning County CoC,Youngstown,OH
+OH-505,"Dayton, Kettering/Montgomery County CoC",DAYTON,OH
+OH-506,"Akron, Barberton/Summit County CoC",Akron,OH
+OH-507,Ohio Balance of State CoC,Athens,OH
+OH-508,"Canton, Massillon, Alliance/Stark County CoC",Ravenna,OH
+OK-500,North Central Oklahoma CoC,Tulsa,OK
+OK-501,Tulsa City & County CoC,TULSA,OK
+OK-502,Oklahoma City CoC,OKLAHOMA CITY,OK
+OK-503,Oklahoma Balance of State CoC,El Reno,OK
+OK-504,Norman/Cleveland County CoC,Norman,OK
+OK-505,Northeast Oklahoma CoC,Tahlequah,OK
+OK-506,Southwest Oklahoma Regional CoC,LAWTON,OK
+OK-507,Southeastern Oklahoma Regional CoC,Stigler,OK
+OR-500,"Eugene, Springfield/Lane County CoC",EUGENE,OR
+OR-501,"Portland, Gresham/Multnomah County CoC",PORTLAND,OR
+OR-502,"Medford, Ashland/Jackson County CoC",MEDFORD,OR
+OR-503,Central Oregon CoC,BEND,OR
+OR-504,"Salem/Marion, Polk Counties CoC",Salem,OR
+OR-505,Oregon Balance of State CoC,Corvallis,OR
+OR-506,"Hillsboro, Beaverton/Washington County CoC",Hillsboro,OR
+OR-507,Clackamas County CoC,Oregon City,OR
+PA-500,Philadelphia CoC,Philadelphia,PA
+PA-501,Harrisburg/Dauphin County CoC,Harrisburg,PA
+PA-502,"Upper Darby, Chester, Haverford/Delaware County CoC",Chester,PA
+PA-503,"Wilkes-Barre, Hazleton/Luzerne County CoC",Wilkes-Barre,PA
+PA-504,"Lower Merion, Norristown, Abington/Montgomery County CoC",NORRISTOWN,PA
+PA-505,Chester County CoC,COATESVILLE,PA
+PA-506,Reading/Berks County CoC,READING,PA
+PA-508,Scranton/Lackawanna County CoC,SCRANTON,PA
+PA-509,Eastern Pennsylvania CoC,Harrisburg,PA
+PA-510,Lancaster City & County CoC,Elizabethtown,PA
+PA-511,"Bristol, Bensalem/Bucks County CoC",DOYLESTOWN,PA
+PA-512,York City & County CoC,York,PA
+PA-600,"Pittsburgh, McKeesport, Penn Hills/Allegheny County CoC",PITTSBURGH,PA
+PA-601,Western Pennsylvania CoC,Harrisburg,PA
+PA-603,Beaver County CoC,ROCHESTER,PA
+PA-605,Erie City & County CoC,Erie,PA
+PR-502,Puerto Rico Balance of Commonwealth CoC,San Juan,PR
+PR-503,South-Southeast Puerto Rico CoC,San Juan,PR
+RI-500,Rhode Island Statewide CoC,Westerly,RI
+SC-500,Charleston/Low Country CoC,Charleston,SC
+SC-501,"Greenville, Anderson, Spartanburg/Upstate CoC",SPARTANBURG,SC
+SC-502,Columbia/Midlands CoC,Columbia,SC
+SC-503,"Myrtle Beach, Sumter City & County CoC",Camden,SC
+SD-500,South Dakota Statewide CoC,Pierre,SD
+TN-500,Chattanooga/Southeast Tennessee CoC,CHATTANOOGA,TN
+TN-501,Memphis/Shelby County CoC,Memphis,TN
+TN-502,Knoxville/Knox County CoC,KNOXVILLE,TN
+TN-503,Central Tennessee CoC,Hohlenwald,TN
+TN-504,Nashville-Davidson County CoC,Nashville,TN
+TN-506,Upper Cumberland CoC,COOKEVILLE,TN
+TN-507,Jackson/West Tennessee CoC,JACKSON,TN
+TN-509,Appalachian Regional CoC,KINGSPORT,TN
+TN-510,Murfreesboro/Rutherford County CoC,Murfreesboro,TN
+TN-512,"Morristown/Blount, Sevier, Campbell, Cocke Counties CoC",Knoxville,TN
+TX-500,San Antonio/Bexar County CoC,San Antonio,TX
+TX-503,Austin/Travis County CoC,Austin,TX
+TX-600,"Dallas City & County, Irving CoC",Plano,TX
+TX-601,"Fort Worth, Arlington/Tarrant County CoC",Fort Worth,TX
+TX-603,El Paso City & County CoC,EL PASO,TX
+TX-604,Waco/McLennan County CoC,WACO,TX
+TX-607,Texas Balance of State CoC,DENTON,TX
+TX-611,Amarillo CoC,AMARILLO,TX
+TX-624,"Wichita Falls/Wise, Palo Pinto, Wichita, Archer Counties CoC",Wichita Falls,TX
+TX-700,"Houston, Pasadena, Conroe/Harris, Ft. Bend, Montgomery, Counties CoC",HOUSTON,TX
+TX-701,"Bryan, College Station/Brazos Valley CoC",BRYAN,TX
+UT-500,Salt Lake City & County CoC,Salt Lake City,UT
+UT-503,Utah Balance of State CoC,Salt Lake City,UT
+UT-504,Provo/Mountainland CoC,PROVO,UT
+VA-500,"Richmond/Henrico, Chesterfield, Hanover Counties CoC",Richmond,VA
+VA-501,"Norfolk, Chesapeake, Suffolk/Isle of Wight, Southampton Counties CoC",Norfolk,VA
+VA-502,"Roanoke City & County, Salem CoC",SALEM,VA
+VA-503,Virginia Beach CoC,Virginia Beach,VA
+VA-504,Charlottesville CoC,CHARLOTTESVLE,VA
+VA-505,"Newport News, Hampton/Virginia Peninsula CoC",Hampton,VA
+VA-507,Portsmouth CoC,Portsmouth,VA
+VA-508,Lynchburg CoC,Lynchburg,VA
+VA-513,"Harrisburg, Winchester/Western Virginia CoC",Woodstock,VA
+VA-514,"Fredericksburg/Spotsylvania, Stafford Counties CoC",FREDERICKSBRG,VA
+VA-521,Virginia Balance of State CoC,Richmond,VA
+VA-600,Arlington County CoC,Arlington,VA
+VA-601,Fairfax County CoC,Vienna,VA
+VA-602,Loudoun County CoC,LEESBURG,VA
+VA-603,Alexandria CoC,ALEXANDRIA,VA
+VA-604,Prince William County CoC,Wood,VA
+VI-500,Virgin Islands CoC,Christiansted,VI
+VT-500,Vermont Balance of State CoC,WHITE RIV JCT,VT
+VT-501,Burlington/Chittenden County CoC,BURLINGTON,VT
+WA-500,Seattle/King County CoC,"Renton,",WA
+WA-501,Washington Balance of State CoC,Bremerton,WA
+WA-502,Spokane City & County CoC,Spokane,WA
+WA-503,"Tacoma, Lakewood/Pierce County CoC",Tacoma,WA
+WA-504,Everett/Snohomish County CoC,EVERETT,WA
+WA-508,Vancouver/Clark County CoC,VANCOUVER,WA
+WI-500,Wisconsin Balance of State CoC,JANESVILLE,WI
+WI-501,Milwaukee City & County CoC,Milwaukee,WI
+WI-502,Racine City & County CoC,RACINE,WI
+WI-503,Madison/Dane County CoC,MADISON,WI
+WV-500,"Wheeling, Weirton Area CoC",WHEELING,WV
+WV-501,"Huntington/Cabell, Wayne Counties CoC",HUNTINGTON,WV
+WV-503,"Charleston/Kanawha, Putnam, Boone, Clay Counties CoC",Charleston,WV
+WV-508,West Virginia Balance of State CoC,Bridgeport,WV
+WY-500,Wyoming Statewide CoC,SHERIDAN,WY
+,Total,,
+,,,
+"a MO-604 covers territory in both Missouri and Kansas. The record described in this file represents the CoC's total territory, the sum of the point-in-time estimates the CoC separately reported for the portions of its territory in MO and in KS. However, in the companion file, Point-in-Time Estimates by State, MO-604's data have been split up between MO and KS.",,,
