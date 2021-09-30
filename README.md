@@ -38,4 +38,4 @@ In 2020, a little over half a million people (574577) were homeless in the US. T
 | Florida    | 25977               |
 | Washington | 22923               |
 
-![homeless_state_2020.png](attachment:homeless_state_2020.png)
+![homeless_state_2020.png](/figures/homeless_state_2020.png)
