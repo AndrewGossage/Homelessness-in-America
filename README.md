@@ -3,14 +3,14 @@
 ## Contents
 
 1. [Introduction](#Introduction)
-2. [Data Cleaning and EDA (Homelessness counts)](#Data-Cleaning-and-EDA-(Homelessness-counts))
+2. [Data Cleaning and EDA of homeless counts](#Data-Cleaning-and-EDA-of-homeless-counts)
 5. [Conclusions and TODO](#Conclusions-and-TODO)
 
 ## Introduction
 
 
 
-## Data Cleaning and EDA (Homelessness counts)
+## Data Cleaning and EDA of homeless counts
 
 ### The Data
 
@@ -38,4 +38,4 @@ In 2020, a little over half a million people (574577) were homeless in the US. T
 | Florida    | 25977               |
 | Washington | 22923               |
 
-![homeless_state_2020.png](attachment:homeless_state_2020.png)
+![homeless_state_2020.png](/figures/homeless_state_2020.png)
