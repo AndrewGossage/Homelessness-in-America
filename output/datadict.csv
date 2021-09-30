@@ -1,0 +1,28 @@
+Variable, Explanation, 
+group, KMeans Model Group
+jan, Avg Temperature in January
+april, Avg Temperature in April
+july, Avg Temperature in July
+oct, Avg Temperature in October
+precip ", Inches of rainfall 
+precip days, Days with rain
+snowfall, Inches of Snow
+rank, City ranking by size	
+pop2021, Population	
+pop2010, Population	
+aland_sqmi,	Land Area
+2010 population, Population
+2012 population, Population
+population (2013),Population
+growth,	Population growth
+density, Population Density
+growth / decline, Population growth		
+budget, City Budget	
+took office, Year Current Mayor took office
+term ends, Year Current Mayor will leave office
+overall homeless, Number of homeless in city
+year, year considered
+median household income (dollars), Median household income	
+budget/pop, Budget divided by population
+budget/homeless, Budget divided by total homeless in city	
+%homeless, Percent of city living without a home
