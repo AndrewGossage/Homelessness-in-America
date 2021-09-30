@@ -3,14 +3,14 @@
 ## Contents
 
 1. [Introduction](#Introduction)
-2. [Data Cleaning and EDA (Homelessness counts)](#Data-Cleaning-and-EDA-(Homelessness-counts))
+2. [Data Cleaning and EDA of homeless counts](#Data-Cleaning-and-EDA-of-homeless-counts))
 5. [Conclusions and TODO](#Conclusions-and-TODO)
 
 ## Introduction
 
 
 
-## Data Cleaning and EDA (Homelessness counts)
+## Data Cleaning and EDA of homeless counts
 
 ### The Data
 
