@@ -79,7 +79,7 @@ https://data.census.gov
 
 The next step was to look for trends in the data
 
-<img src="images/EDA.png">
+![EDA.png](/output/EDA.png)
 
 What was Interesting about this was we could start to see a trend (a sort of triangular shape) in the main clustering of the data.  Upon discussion with the team this was found to correlate with some of their findings and on the plot to the right the center of the cluster was around 60,000 which is also the median income in the US.
 
@@ -91,7 +91,7 @@ In our research we found an interesting article by Continum of Care outlining ho
 
 https://dupagehomeless.org/research-demonstrates-connection-between-housing-affordability-homelessness/
 
-<img src="images/rent_ratio.png">
+![rent_ratio.png](/output/rent_ratio.png)
 
 Although we tried to match our data to what the research had said we were unable to.  We could not identify a direct tie between the increasing rental ratio and increasing homelessness.  This was also a good indication of how complex this problem is for America and that there is not an easy solution.
 
