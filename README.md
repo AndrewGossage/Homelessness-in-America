@@ -3,7 +3,7 @@
 # Contents
 
 1. [Introduction and Goals](#Introduction-and-Goals)
-2. [Data Cleaning and EDA (Homelessness counts and Housing Inventory counts)](#Data-Cleaning-and-EDA-(Homelessness-and-Housing-Inventory-counts))
+2. [Data Cleaning and EDA of Homelessness counts and Housing Inventory counts](#Data-Cleaning-and-EDA-of-Homelessness-and-Housing-Inventory-counts)
 3. [Linear Regression with Housing Costs and Income data](#Linear-Regression-with-Housing-Costs-and-Income-data) 
 4. [KMeans Clusters with Weather and Population data](#KMeans-Clusters-with-Weather-and-Population-data)
 5. [Conclusions and TODO](#Conclusions-and-TODO)
@@ -18,7 +18,7 @@ This project was a joint effort by Andrew Gossage, Suma Karanam and Eric Swanson
 - Present areas of focus that aid in fighting homelessness
 
 
-# Data Cleaning and EDA (Homelessness and Housing Inventory counts)
+# Data Cleaning and EDA of Homelessness and Housing Inventory counts
 
 ## The Homeless counts Data
 
