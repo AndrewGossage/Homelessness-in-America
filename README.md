@@ -50,7 +50,7 @@ In 2020, a little over half a million people (574577) were homeless in the US. T
 
 ### Change in homelessness counts over the last decade
 
-EDA with the homeless counts and inventory counts involved looking at the trends in the raw counts and the counts normalized with respect to the population of the cities for various cities between 2014 and 2020. Complete details of the analysis can be found in this [notebook](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/homelessness_cleaning/EDA%20of%20homless%20counts.ipynb). The population data for this period obtained from [US Census Bureau](https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html) and a copy can be downloaded from [here](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/Population.xlsx). Included below are the trends for a few major metropolitan centers in the US
+EDA with the homeless counts and inventory counts involved looking at the trends in the raw counts and the counts normalized with respect to the population for various cities between 2014 and 2020. Complete details of the analysis can be found in this [notebook](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/homelessness_cleaning/EDA%20of%20homless%20counts.ipynb). The population data for this period obtained from [US Census Bureau](https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html) and a copy can be downloaded from [here](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/Population.xlsx). Included below are the trends for a few major metropolitan centers in the US
 
 ![HIC_PIT_many_cities](/output/HIC_PIT_many_cities.png)
 
