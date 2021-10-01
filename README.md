@@ -32,7 +32,7 @@ The PIT estimates for the years for the years 2014 to 2020 were obtained from th
 
 The tables containing the aggregated information for PIT estimates along with the cities served by each CoC for all years from 2014 to 2019 can be downloaded from [here](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/homelessness_cleaning/2014-2021-PIT-esimates-cleanish.csv)
 
-HUD also publishes the Housing Inventory Count or the HIC which is the number of housing units (both permanent and transitional) provided by each CoC. This data was also cleaned and merged with the city data of each CoC and can be downloaded from [here](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/homelessness_cleaning/2014-2021-HIC-cleanish.csv)
+HUD also publishes the Housing Inventory Count (HIC) which is the number of housing units (both permanent and transitional) provided by each CoC. This data was also cleaned and merged with the city data of each CoC and can be downloaded from [here](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/homelessness_cleaning/2014-2021-HIC-cleanish.csv)
 
 ### EDA
 
@@ -50,11 +50,61 @@ In 2020, a little over half a million people (574577) were homeless in the US. T
 
 ### Change in homelessness counts over the last decade
 
-EDA with the homeless counts and inventory counts involved looking at the trends in the raw counts and the counts normalized with respect to the population of the cities for various cities between 2014 and 2020. Complete details of the analysis can be found in this [notebook](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/homelessness_cleaning/EDA%20of%20homless%20counts.ipynb). The population data for this period obtained from [US Census Bureau](https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html) and a copy can be downloaded from [here](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/Population.xlsx). Included below are the trends for a few major metropolitan centers in the US
+EDA with the homeless counts and inventory counts involved looking at the trends in the raw counts and the counts normalized with respect to the population for various cities between 2014 and 2020. Complete details of the analysis can be found in this [notebook](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/homelessness_cleaning/EDA%20of%20homless%20counts.ipynb). The population data for this period obtained from [US Census Bureau](https://www.census.gov/data/tables/time-series/demo/popest/2010s-total-cities-and-towns.html) and a copy can be downloaded from [here](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/Population.xlsx). Included below are the trends for a few major metropolitan centers in the US
 
 ![HIC_PIT_many_cities](/output/HIC_PIT_many_cities.png)
 
 # Linear Regression with Housing Costs and Income data
+
+## Software needed
+
+pandas, matplotlib, seaborn, sklearn 
+
+ ## Data Collection
+
+The US Census department collects data on income and costs for both renters and homeowners down to the city level.  This data was very detailed and had the breakdown for the number of residents in 10,000 intervals for income and 300 intervals for costs.  For this study we just used the median for the years 2017 to 2019
+
+https://data.census.gov
+
+| Features                | Description                       |
+|-------------------------|-----------------------------------|
+| Median household Income | Median Income for the entire city |
+| Median household Cost   | Median cost for the entire city   |
+| Owner Occupied Income   | Median income for property owners |
+| Owner Occupied Cost     | Median cost for property owners   |
+| Renter Occupied Income  | Median income for renters         |
+| Renter Occupied Cost    | Median cost for renters           |
+
+## EDA
+
+The next step was to look for trends in the data
+
+<img src="images/EDA.png">
+
+What was Interesting about this was we could start to see a trend (a sort of triangular shape) in the main clustering of the data.  Upon discussion with the team this was found to correlate with some of their findings and on the plot to the right the center of the cluster was around 60,000 which is also the median income in the US.
+
+The next step was building a Linear Regression model.  We chose Linear Regression for its simplicity and wanted easily interpretable features.  Although our model was a poor fit with an R^2 score of 33% we were able to see that the rental cost stood out as a large feature.  We took this information and started the next part of the research.
+
+
+
+In our research we found an interesting article by Continum of Care outlining how cities are dealing with homeless and places that have had success and those that have not.  The article pointed out that when a city surpasses a rental cost to income ratio of 32% the city can start experiencing chronic homelessness.  So we created a column of this ratio and looked at cities above that ratio and compared it to our homeless counts.
+
+https://dupagehomeless.org/research-demonstrates-connection-between-housing-affordability-homelessness/
+
+<img src="images/rent_ratio.png">
+
+Although we tried to match our data to what the research had said we were unable to.  We could not identify a direct tie between the increasing rental ratio and increasing homelessness.  This was also a good indication of how complex this problem is for America and that there is not an easy solution.
+
+-------
+
+The article mentioned my current city as a success story and so I investigated further as to why Houston had experienced success.  The two big takeaways from the article:
+
+- Development of the HMIS system (an integrated system that coordinates community involvement and departments across the city.
+
+- Trying to find more permanent housing than temporary
+
+https://www.texastribune.org/2019/07/02/why-homelessness-going-down-houston-dallas/
+
 
 # KMeans Clusters with Weather and Population data
 
@@ -68,57 +118,7 @@ EDA with the homeless counts and inventory counts involved looking at the trends
     <li>Data and cleaning notbook  -> /data/weather-population</li>
     <li>EDA  -> /primary-code</li>
 <h2>Data Dictionary</h2>    
-<style type="text/css">
-	table.tableizer-table {
-		font-size: 12px;
-		border: 1px solid #CCC; 
-		font-family: Arial, Helvetica, sans-serif;
-	} 
-	.tableizer-table td {
-		padding: 4px;
-		margin: 3px;
-		border: 1px solid #CCC;
-	}
-	.tableizer-table th {
-		background-color: #104E8B; 
-		color: #FFF;
-		font-weight: bold;
-	}
-</style>
-<style type="text/css">
-	table.tableizer-table {
-		font-size: 12px;
-		border: 1px solid #CCC; 
-		font-family: Arial, Helvetica, sans-serif;
-	} 
-	.tableizer-table td {
-		padding: 4px;
-		margin: 3px;
-		border: 1px solid #CCC;
-	}
-	.tableizer-table th {
-		background-color: #104E8B; 
-		color: #FFF;
-		font-weight: bold;
-	}
-</style>
-<style type="text/css">
-	table.tableizer-table {
-		font-size: 12px;
-		border: 1px solid #CCC; 
-		font-family: Arial, Helvetica, sans-serif;
-	} 
-	.tableizer-table td {
-		padding: 4px;
-		margin: 3px;
-		border: 1px solid #CCC;
-	}
-	.tableizer-table th {
-		background-color: #104E8B; 
-		color: #FFF;
-		font-weight: bold;
-	}
-</style>
+
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th></th><th>Variable</th><th> Explanation</th></tr></thead><tbody>
  <tr><td>1</td><td>group</td><td> KMeans Model Group</td></tr>
@@ -149,24 +149,6 @@ EDA with the homeless counts and inventory counts involved looking at the trends
  <tr><td>27</td><td>%homeless</td><td> Percent of city living without a home</td></tr>
 </tbody></table>
 <h2>Model Groupings</h2>
-<p>Data in Columns is in standard deviations from the mean.</p>
-<style type="text/css">
-	table.tableizer-table {
-		font-size: 12px;
-		border: 1px solid #CCC; 
-		font-family: Arial, Helvetica, sans-serif;
-	} 
-	.tableizer-table td {
-		padding: 4px;
-		margin: 3px;
-		border: 1px solid #CCC;
-	}
-	.tableizer-table th {
-		background-color: #104E8B; 
-		color: #FFF;
-		font-weight: bold;
-	}
-</style>
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th></th><th>jan</th><th>april</th><th>july</th><th>oct </th><th>precip "</th><th>precip days</th><th>snowfall</th><th>rank</th><th>pop2021</th><th>pop2010</th><th>growth</th><th>density</th><th>aland_sqmi</th><th>2010 population</th><th>2012 population</th><th>growth / decline</th><th>rank_y</th><th>population (2013)</th><th>budget</th><th>took office</th><th>term ends</th><th>overall homeless</th><th>year</th><th>median household income (dollars)</th><th>budget/pop</th><th>budget/homeless</th><th>%homeless</th></tr></thead><tbody>
  <tr><td>0</td><td>-1.1299525631588259</td><td>-1.0788617659458726</td><td>-0.8974699395752151</td><td>-1.0273355841851608</td><td>-0.06821926258499103</td><td>0.691229087532018</td><td>0.687695328344358</td><td>-0.7556566986063858</td><td>0.2968772367557819</td><td>0.32653064857399283</td><td>-0.006882638197611384</td><td>0.10505193169721212</td><td>0.10516961305053633</td><td>0.32792474256937965</td><td>0.3165402267860373</td><td>-0.02002535263995121</td><td>-0.7789403242149152</td><td>0.31136761491444104</td><td>-0.37797269118188753</td><td>-0.9721299240564192</td><td>0.7807507850863389</td><td>-0.2725913022258261</td><td>0.0</td><td>-0.08389648873153921</td><td>-0.9276771645523532</td><td>-0.3955057658402111</td><td>-0.6709347130120678</td></tr>
@@ -185,7 +167,7 @@ EDA with the homeless counts and inventory counts involved looking at the trends
 
 ## Conclusions
 
-During our Research we Failed to find a universal solve for homelessness, however, there are a couple noteworthy patterns:
+During our research we failed to find a universal solve for homelessness, however, there are a couple noteworthy patterns:
 
 - Cities that are not extremely wealthy but do rank above the national median income tend to suffer more homelessness. 
 - Homeless individual are drawn towards more temperate climates. 
