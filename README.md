@@ -119,23 +119,6 @@ https://www.texastribune.org/2019/07/02/why-homelessness-going-down-houston-dall
     <li>EDA  -> /primary-code</li>
 <h2>Data Dictionary</h2>    
 
-<style type="text/css">
-	table.tableizer-table {
-		font-size: 12px;
-		border: 1px solid #CCC; 
-		font-family: Arial, Helvetica, sans-serif;
-	} 
-	.tableizer-table td {
-		padding: 4px;
-		margin: 3px;
-		border: 1px solid #CCC;
-	}
-	.tableizer-table th {
-		background-color: #104E8B; 
-		color: #FFF;
-		font-weight: bold;
-	}
-</style>
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th></th><th>Variable</th><th> Explanation</th></tr></thead><tbody>
  <tr><td>1</td><td>group</td><td> KMeans Model Group</td></tr>
@@ -166,24 +149,6 @@ https://www.texastribune.org/2019/07/02/why-homelessness-going-down-houston-dall
  <tr><td>27</td><td>%homeless</td><td> Percent of city living without a home</td></tr>
 </tbody></table>
 <h2>Model Groupings</h2>
-<p>Data in Columns is in standard deviations from the mean.</p>
-<style type="text/css">
-	table.tableizer-table {
-		font-size: 12px;
-		border: 1px solid #CCC; 
-		font-family: Arial, Helvetica, sans-serif;
-	} 
-	.tableizer-table td {
-		padding: 4px;
-		margin: 3px;
-		border: 1px solid #CCC;
-	}
-	.tableizer-table th {
-		background-color: #104E8B; 
-		color: #FFF;
-		font-weight: bold;
-	}
-</style>
 <table class="tableizer-table">
 <thead><tr class="tableizer-firstrow"><th></th><th>jan</th><th>april</th><th>july</th><th>oct </th><th>precip "</th><th>precip days</th><th>snowfall</th><th>rank</th><th>pop2021</th><th>pop2010</th><th>growth</th><th>density</th><th>aland_sqmi</th><th>2010 population</th><th>2012 population</th><th>growth / decline</th><th>rank_y</th><th>population (2013)</th><th>budget</th><th>took office</th><th>term ends</th><th>overall homeless</th><th>year</th><th>median household income (dollars)</th><th>budget/pop</th><th>budget/homeless</th><th>%homeless</th></tr></thead><tbody>
  <tr><td>0</td><td>-1.1299525631588259</td><td>-1.0788617659458726</td><td>-0.8974699395752151</td><td>-1.0273355841851608</td><td>-0.06821926258499103</td><td>0.691229087532018</td><td>0.687695328344358</td><td>-0.7556566986063858</td><td>0.2968772367557819</td><td>0.32653064857399283</td><td>-0.006882638197611384</td><td>0.10505193169721212</td><td>0.10516961305053633</td><td>0.32792474256937965</td><td>0.3165402267860373</td><td>-0.02002535263995121</td><td>-0.7789403242149152</td><td>0.31136761491444104</td><td>-0.37797269118188753</td><td>-0.9721299240564192</td><td>0.7807507850863389</td><td>-0.2725913022258261</td><td>0.0</td><td>-0.08389648873153921</td><td>-0.9276771645523532</td><td>-0.3955057658402111</td><td>-0.6709347130120678</td></tr>
