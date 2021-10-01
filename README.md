@@ -185,7 +185,7 @@ EDA with the homeless counts and inventory counts involved looking at the trends
 
 ## Conclusions
 
-During our Research we Failed to find a universal solve for homelessness, however, there are a couple noteworthy patterns:
+During our research we failed to find a universal solve for homelessness, however, there are a couple noteworthy patterns:
 
 - Cities that are not extremely wealthy but do rank above the national median income tend to suffer more homelessness. 
 - Homeless individual are drawn towards more temperate climates. 
