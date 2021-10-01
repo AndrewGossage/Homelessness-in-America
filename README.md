@@ -32,7 +32,7 @@ The PIT estimates for the years for the years 2014 to 2020 were obtained from th
 
 The tables containing the aggregated information for PIT estimates along with the cities served by each CoC for all years from 2014 to 2019 can be downloaded from [here](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/homelessness_cleaning/2014-2021-PIT-esimates-cleanish.csv)
 
-HUD also publishes the Housing Inventory Count or the HIC which is the number of housing units (both permanent and transitional) provided by each CoC. This data was also cleaned and merged with the city data of each CoC and can be downloaded from [here](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/homelessness_cleaning/2014-2021-HIC-cleanish.csv)
+HUD also publishes the Housing Inventory Count (HIC) which is the number of housing units (both permanent and transitional) provided by each CoC. This data was also cleaned and merged with the city data of each CoC and can be downloaded from [here](https://github.com/AndrewGossage/Project5/blob/master/data/homelessness/homelessness_cleaning/2014-2021-HIC-cleanish.csv)
 
 ### EDA
 
